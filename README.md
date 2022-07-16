@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashit Kumar Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="60%" src="https://camo.githubusercontent.com/41a2d39cb5918c682de0bf1a1eb19b1d87fff3efcce9ef1d6be1328395ff90d2/68747470733a2f2f64616b73687961746563686e6f6c6f67792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f33393939382d7765622d646576656c6f706d656e742e676966" >
+<img align="right" alt="coding" width="60%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20views&color=0e75b6&style=flat" alt="asitkr" /> </p>
 
