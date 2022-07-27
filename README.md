@@ -24,7 +24,7 @@
 
 <br/>
 
-#### Visitor Count :heart:
+#### Profile Visit :heart:
 ![VisitorCount](https://profile-counter.glitch.me/asitkr/count.svg)
 
 - 🌱 I’m currently learning **ReactJs**
