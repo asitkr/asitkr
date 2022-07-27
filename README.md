@@ -4,8 +4,18 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" height="30" width="40" /></a>
-<a href="https://leetcode.com/aashitkumarsinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aashitkumarsinha/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="blank">
+    <img alt="Ashit LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/asitkr" target="blank">
+    <img alt="Ashit Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://www.instagram.com/aashitkrsina/" target="blank">
+    <img alt="Ashit Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://leetcode.com/aashitkumarsinha/" target="blank">
+    <img alt="Ashit Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
 </p>
 
 
