@@ -23,7 +23,9 @@
 ---
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20views&color=0e75b6&style=flat" alt="asitkr" /> </p>
+
+#### Visitor Count :heart:
+![VisitorCount](https://profile-counter.glitch.me/asitkr/count.svg)
 
 - 🌱 I’m currently learning **ReactJs**
 
