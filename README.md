@@ -58,4 +58,4 @@
 </p>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ashit-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=asitkr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
