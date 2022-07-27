@@ -16,16 +16,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20views&color=0e75b6&style=flat" alt="asitkr" /> </p>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 I’m currently learning **ReactJs**
 
-- :seedling: Exploring Technical Content Writing.
+- 📫 How to reach me **aashitkumarsinha@gmail.com**
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+- ⚡ Fun fact **I am funny**
 
 ---
 
