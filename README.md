@@ -49,7 +49,14 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<a href="https://github.com/asitkr"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight" alt="asitkr" />
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="coding" width="100%" src="https://raw.githubusercontent.com/Shubhamvumap123/Shubhamvumap123/output/github-contribution-grid-snake.gif" >
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
