@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+---
+
+<h1 align="center">Hi 👋, I'm Ashit Kumar Sinha</h1>
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -23,14 +27,6 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="600" height="500"/>
 </div>
 
-
----
-
-<h1 align="center">Hi 👋, I'm Ashit Kumar Sinha</h1>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
----
 
 <br/>
 
