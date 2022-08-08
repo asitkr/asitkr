@@ -1,10 +1,8 @@
----
 
-<h1 align="center">Hi 👋, I'm Ashit Kumar Sinha</h1>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
----
+<p align="center"> 
+<!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Ashit+Kumar+Sinha!" alt="Typing SVG" /
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
