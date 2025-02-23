@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **aashitkumarsinha@gmail.com**
+- 📫 How to reach me **ashitkumarsinha05@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
