@@ -43,17 +43,37 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,mysql,git,github,firebase,jest,vscode" />
+
+</p>
+
+<br/>
+
+<h4 align="center">⚡ State Management & Data Fetching</h4>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux%20Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+
+</p>
+
+<br/>
+
+<h4 align="center">🧪 Testing & Tools</h4>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
 
 ---
 
