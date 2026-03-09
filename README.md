@@ -59,20 +59,7 @@
 
 ### 📊 My GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asitkr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-
+<div align="center">  
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight&hide_border=true" alt="asitkr streak" />
 </div>
 
