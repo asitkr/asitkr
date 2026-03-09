@@ -1,76 +1,69 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ashit%20Kumar%20Sinha&fontSize=70&animation=fadeIn" />
 
-<p align="center"> 
-<!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Ashit+Kumar+Sinha!" alt="Typing SVG" /
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A58&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Creative+Coder;Problem+Solver" alt="Typing SVG" />
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="blank">
-    <img alt="Ashit LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://github.com/asitkr" target="blank">
-    <img alt="Ashit Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  <a href="https://www.instagram.com/aashitkrsina/" target="blank">
-    <img alt="Ashit Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://leetcode.com/aashitkumarsinha/" target="blank">
-    <img alt="Ashit Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-  </a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/asitkr" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.instagram.com/aashitkrsina/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://leetcode.com/aashitkumarsinha/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  </p>
+</div>
 
+---
+
+### 🙋‍♂️ About Me
+- 🔭 I’m currently working on **Frontend UI/UX Projects**
+- 🌱 I’m currently learning **Advanced React & Next.js**
+- 💬 Ask me about **JavaScript, React, or CSS Animations**
+- 📫 Reach me at: **ashitkumarsinha05@gmail.com**
+- ⚡ Fun fact: **I can debug faster than I can cook!**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="600" height="500"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asitkr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight" alt="asitkr streak" />
 </div>
-
-
-<br/>
-
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
-
-#### Profile Visit :heart:
-![VisitorCount](https://profile-counter.glitch.me/asitkr/count.svg)
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 📫 How to reach me **ashitkumarsinha05@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
+### ⏳ Weekly Coding Activity (Day-to-Day)
+<!-- This section requires WakaTime setup. If you haven't set it up, this image will show your recent GitHub activity graph instead -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asitkr&theme=react-dark" width="100%" />
 
 ---
 
-### :fire: My Stats :
-
-
-<a href="https://github.com/asitkr"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight" /></a>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight" alt="asitkr" />
-<br/>
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=asitkr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20Views&color=F71A58&style=flat" alt="Views" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+</div>
