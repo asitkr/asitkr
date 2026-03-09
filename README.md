@@ -11,21 +11,18 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/asitkr" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/aashitkrsina/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/aashitkumarsinha/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/asitkr" target="_blank">
+    <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://www.instagram.com/aashitkrsina/" target="_blank">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://leetcode.com/aashitkumarsinha/" target="_blank">
+    <img alt="Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
 </p>
 
 ---
@@ -36,7 +33,20 @@
 
 ---
 
-### 👀 Profile Visitors
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
+
+### 👋 About Me
+
+- 🌱 I’m currently learning **ReactJs**
+- 💬 Ask me about **JavaScript, React, Tailwind**
+- 📫 Reach me at **ashitkumarsinha05@gmail.com**
+- ⚡ Fun fact: **I am funny 😄**
+
+---
+
+### 👀 Profile Visits
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
@@ -44,50 +54,40 @@
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **ReactJS**
-- 💬 Ask me about **JavaScript, React, Tailwind**
-- 📫 Reach me at **ashitkumarsinha05@gmail.com**
-- ⚡ Fun fact: **I am funny 😄**
-
----
-
-# 🛠️ Languages & Tools
+# 🛠️ Languages and Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,java,mysql,git,github,vscode,redux" />
+<img src="https://skillicons.dev/icons?i=java,react,redux,html,css,js,nodejs,mysql,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📊 My GitHub Stats
+### 📊 My GitHub Stats
 
-<p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asitkr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asitkr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asitkr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+### 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asitkr&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asitkr&theme=react-dark&hide_border=true" width="100%"/>
 
 ---
 
