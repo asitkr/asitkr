@@ -3,21 +3,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Ashit+Kumar+Sinha!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🤝 Let's Connect</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<h3 align="center">🚀 Catch me on:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin">
   </a>
-  <a href="https://github.com/asitkr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/asitkr">
+    <img src="https://img.shields.io/static/v1?label=&message=Github&color=181717&style=flat-square&logo=github">
   </a>
-  <a href="https://www.instagram.com/aashitkrsina/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/aashitkrsina/">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=flat-square&logo=instagram">
   </a>
-  <a href="https://leetcode.com/aashitkumarsinha/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  <a href="https://leetcode.com/aashitkumarsinha/">
+    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&style=flat-square&logo=leetcode">
   </a>
-</div>
+</p>
+
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="600" height="500"/>
 </div>
