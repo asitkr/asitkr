@@ -1,66 +1,59 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashit%20Kumar%20Sinha&fontSize=60&animation=fadeIn"/>
+<p align="center"> 
+<!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Ashit+Kumar+Sinha!" alt="Typing SVG" />
 </p>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&center=true&vCenter=true&width=600&lines=Web+Developer;React+Developer;Hey!+It's+Ashit+Kumar+Sinha!" alt="Typing SVG"/>
-</p>
-
----
-
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="_blank">
-    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/ashit-kumar-sinha-34578920a/" target="blank">
+    <img alt="Ashit LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://github.com/asitkr" target="_blank">
-    <img alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/asitkr" target="blank">
+    <img alt="Ashit Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://www.instagram.com/aashitkrsina/" target="_blank">
-    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://www.instagram.com/aashitkrsina/" target="blank">
+    <img alt="Ashit Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://leetcode.com/aashitkumarsinha/" target="_blank">
-    <img alt="Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <a href="https://leetcode.com/aashitkumarsinha/" target="blank">
+    <img alt="Ashit Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
 </p>
-
----
 
 <div align="center">
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="600"/>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="600" height="500"/>
 </div>
-
----
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
-### 👋 About Me
+#### Profile Visit :heart:
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 - 🌱 I’m currently learning **ReactJs**
-- 💬 Ask me about **JavaScript, React, Tailwind**
-- 📫 Reach me at **ashitkumarsinha05@gmail.com**
-- ⚡ Fun fact: **I am funny 😄**
+
+- 📫 How to reach me **ashitkumarsinha05@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 ---
 
-### 👀 Profile Visits
+### :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=asitkr&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-# 🛠️ Languages and Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,react,redux,html,css,js,nodejs,mysql,git,github,vscode"/>
-
-</p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
 ---
 
@@ -80,25 +73,15 @@
   
   <br/>
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=asitkr&theme=tokyonight&hide_border=true" alt="asitkr streak" />
 </div>
 
 ---
-
-### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asitkr&theme=react-dark&hide_border=true" width="100%"/>
 
----
-
-<div align="center">
-
-<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
-
-</div>
-
----
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
