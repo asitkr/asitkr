@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
