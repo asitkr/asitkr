@@ -45,8 +45,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,mysql,git,github,firebase,jest,vscode,zustand,tanstackquery" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,nodejs,mysql,git,github,firebase,jest,vscode" />
 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 <br/>
@@ -61,6 +66,7 @@
 <img src="https://img.shields.io/badge/Redux%20Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </p>
 
